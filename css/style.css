@@ -440,11 +440,11 @@ textarea {
 }
 
 .css-progress {
-    background: linear-gradient(45deg, #3bc0ff, #33ff00);
+    background: linear-gradient(45deg, #ffee54, #ff00ca);
 }
 
 .javascript-progress {
-    background: linear-gradient(45deg, #ffee54, #ff00ca);
+    background: linear-gradient(45deg, #3bc0ff, #33ff00);
 }
 
 .bootstrap-progress {
@@ -538,12 +538,12 @@ textarea {
         margin: 0;
     }
 
-    .contact-left-side{
+    .contact-left-side {
         margin: 0;
         padding: 40px 0;
     }
-    
-    .form-body{
+
+    .form-body {
         margin: 0;
         padding: 0;
     }
